@@ -8,7 +8,7 @@ December 5, 2019
 
 For this final project, I extended the Asteroids base code and created my own version of Asteroids. My version mainly added the following features.
 
-(To launch the game, run `controller/Game.java`)
+(To launch the game, run `mvc/controller/Game.java`)
 
 ## Debris
 When a small asteroid is hit (by a friend), it is shattered into several pieces of debris. Debris does not interact with anything else; it is simply a Movable displayed on the screen for a very short time.
