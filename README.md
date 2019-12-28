@@ -1,6 +1,9 @@
 # Asteroids
+
 Java Programming Final Project
+
 Xiaoyu Sun
+
 December 5, 2019
 
 For this final project, I extended the Asteroids base code and created my own version of Asteroids. My version mainly added the following features.
